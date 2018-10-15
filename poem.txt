@@ -3,6 +3,7 @@ purple
 pin
 orange
 yellow
+green
 blue
 red 
 These are the colors of the rainbow.
