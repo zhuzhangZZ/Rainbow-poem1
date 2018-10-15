@@ -2,6 +2,7 @@ The rainbow
 purple
 pin
 orange
+yellow
 blue
 red 
 These are the colors of the rainbow.
